@@ -1,7 +1,8 @@
 Verti by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
+In the editor, write a bit about yourself.
+Write a commit message that describes your changes.
 
 A super simple + modern responsive website template. Took a slightly different direction
 on the mobile version's slide out nav (floating button versus a full on titlebar).
